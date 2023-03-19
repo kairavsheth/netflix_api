@@ -43,9 +43,9 @@ steps:
 #      ]
 
 substitutions:
-#  _INSTANCE_NAME: kankotri
+#  _INSTANCE_NAME: netflix
 #  _REGION: asia-south1
-  _SERVICE_NAME: kankotri
+  _SERVICE_NAME: netflix
 #  _SECRET_SETTINGS_NAME: django_settings
 
 images:
